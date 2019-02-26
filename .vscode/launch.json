@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IisEdocJobinfoAdminApiApplication<iis-edoc-jobinfo-admin-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "jp.co.linkstaff.iis.IisEdocJobinfoAdminApiApplication",
+            "projectName": "iis-edoc-jobinfo-admin-api",
+            "args": ""
+        }
+    ]
+}
